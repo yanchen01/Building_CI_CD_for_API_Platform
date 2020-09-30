@@ -39,6 +39,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "proxy": "http://shorturl3-ece-528-building-ci-cd-for-api.k-apps.osh.massopen.cloud"
+  }
 }
